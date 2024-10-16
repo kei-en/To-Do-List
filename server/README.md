@@ -5,7 +5,7 @@ The backend for this app is built using Node.js along with the Express web frame
 To run this app, clone the repository and install dependencies:
 
 ```
-$ git clone
+$ git clone https://github.com/kei-en/To-Do-List
 $ cd server
 $ npm install
 ```
